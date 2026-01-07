@@ -40,7 +40,6 @@
 
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
   <code>[THM_RANKING]</code><br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/julianopaprando.png" alt="Your Image Badge" />
 </div>
 <br>
 
