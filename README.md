@@ -11,9 +11,10 @@
 
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
   <code>[CERTIFICATIONS]</code><br><br>
-  <img src="https://img.shields.io/badge/CompTIA_Security+-%231a1a1a?style=flat-square&logo=comptia" />
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-%231a1a1a?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/ISC2_CC-%231a1a1a?style=flat-square&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_Security+-%231a1a1a?style=flat-square&logo=comptia" /><br>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-%231a1a1a?style=flat-square&logo=google" /><br>
+  <img src="https://img.shields.io/badge/ISC2_CC-%231a1a1a?style=flat-square&logo=isc2&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Splunk_Enterprise-%231a1a1a?style=flat-square&logo=splunk&logoColor=white" />
 </div>
 
 <br>
